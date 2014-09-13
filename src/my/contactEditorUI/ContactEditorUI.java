@@ -121,7 +121,7 @@ public class ContactEditorUI extends javax.swing.JFrame {
     private void formWindowOpened(java.awt.event.WindowEvent evt) {//GEN-FIRST:event_formWindowOpened
         LogOutput.LogCheck("FormOpen", rootPaneCheckingEnabled);
     }//GEN-LAST:event_formWindowOpened
-
+fa;lkj
     /**
      * @param args the command line arguments
      */
